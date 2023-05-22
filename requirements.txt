@@ -13,7 +13,7 @@ pymorphy2-dicts==2.4.393442.3710985
 PyQt5==5.13.2
 PyQt5-sip==12.7.0
 PyQtWebEngine==5.13.2
-requests==2.22.0
+requests==2.31.0
 six==1.13.0
 soupsieve==1.9.5
 urllib3==1.25.7
